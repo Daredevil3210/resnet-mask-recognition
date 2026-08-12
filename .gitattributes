@@ -1,0 +1,6 @@
+* text=auto
+*.jpg binary
+*.jfif binary
+*.pdf binary
+*.pth binary
+

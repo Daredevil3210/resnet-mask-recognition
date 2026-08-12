@@ -1,0 +1,25 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vs/
+.vscode/
+
+# Generated train/test split (recreate with data_partitioning.py)
+data/
+
+# Local experiment outputs
+*.log
+.pytest_cache/
+.mypy_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
